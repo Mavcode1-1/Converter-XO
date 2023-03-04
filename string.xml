@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Select any option</item>
+        <item>Terabytes</item>
+        <item>Gigabytes</item>
+        <item>Megabytes</item>
+        <item>Kilobytes</item>
+        <item>Bytes</item>
+        <item>Days</item>
+        <item>Hours</item>
+        <item>Minutes</item>
+        <item>Seconds</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="data">
+        <item>Terabytes</item>
+        <item>Gigabytes</item>
+        <item>Megabytes</item>
+        <item>Kilobytes</item>
+        <item>Bytes</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Days</item>
+        <item>Hours</item>
+        <item>Minutes</item>
+        <item>Seconds</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="input_default">
+        <item>Select any one option</item>
+    </string-array>
+
+    <string-array name="target_default">
+        <item>Select any one option</item>
+    </string-array>
+
+</resources>
